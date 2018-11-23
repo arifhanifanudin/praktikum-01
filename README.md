@@ -1,1 +1,1 @@
-menghitung luas persegi panjang
+# Latihan01
