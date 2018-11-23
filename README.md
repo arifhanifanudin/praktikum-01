@@ -1,23 +1,15 @@
 # Latihan01
 " MENENTUKAN LUAS PERSEGI PANJANG "
 
-Deklarasi
-
- Input    : panjang dan lebar
- 
- Proses  : panjang x lebar
- 
- Output : luas persegi panjang
- 
  Deskripsi
  
- Input panjang
+ 1. Input panjang
  
- Input lebar
+ 2. Input lebar
  
- Luas = panjang x lebar
+ 3. Luas = panjang x lebar
  
- Print luas
+ 4. Print luas
  
  # Program C++
  
@@ -26,13 +18,21 @@ Deklarasi
 using namespace std;
 
 int main()
+
 {
+
     int p, l, L;
+    
     p= 4;
+    
     l= 8;
+    
     L= p*l;
+    
     cout << "Luasnya adalah :" << L << endl;
+    
     return 0;
+    
 }
 
 # Foto Hasil
@@ -72,17 +72,29 @@ Deskripsi
 # Program C++
 
 #include <iostream>
+ 
 using namespace std;
+
 int main()
+
 {
+
   int x;
+  
   cout << "Masukan Bilangan :"<< endl;
+  
   cin>>x;
+  
     if (x%2==0)
+    
     cout<<" Bilangan yang anda masukkan adalah Genap";
+    
     else
+    
     cout<<"Bilangan yang anda masukan adalah Ganjil";
+    
     return 0;
+    
 }
 
 # Foto Hasil
