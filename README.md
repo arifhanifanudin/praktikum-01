@@ -1,6 +1,94 @@
 # Latihan01
-" Menentukan Luas Persegi panjang "
+" MENENTUKAN LUAS PERSEGI PANJANG "
+
+Deklarasi
+
  Input    : panjang dan lebar
+ 
  Proses  : panjang x lebar
+ 
  Output : luas persegi panjang
+ 
+ Deskripsi
+ 
+ Input panjang
+ 
+ Input lebar
+ 
+ Luas = panjang x lebar
+ 
+ Print luas
+ 
+ # Program C++
+ 
+ #include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int p, l, L;
+    p= 4;
+    l= 8;
+    L= p*l;
+    cout << "Luasnya adalah :" << L << endl;
+    return 0;
+}
+
+# Foto Hasil
+
+
+# Latihan02
+
+" MENENTUKAN BILANGAN GANJIL DAN GENAP "
+
+Deklarasi  : 
+
+1. Masukkan sebuah bilangan
+
+2. Bagi bilangan tersebut dengan bilangan atau angka 2
+
+3. Jika bilangan menghasilkan sisa pembagian 0 maka bilangan genap
+
+4. Jika bilangan tidak menghasilkan sisa pembagian 0 maka bilangan ganjil
+
+Deskripsi
+
+                            If bil mod 2 = 0  then,
+
+                                     “Output Genap”
+
+                           Else
+
+                                     “Output Ganjil”
+
+                           End if
+
+
+
+
+                           Ctt: Mod adalah sisa hasil bagi 
+                          
+# Program C++
+
+#include <iostream>
+using namespace std;
+int main()
+{
+  int x;
+  cout << "Masukan Bilangan :"<< endl;
+  cin>>x;
+    if (x%2==0)
+    cout<<" Bilangan yang anda masukkan adalah Genap";
+    else
+    cout<<"Bilangan yang anda masukan adalah Ganjil";
+    return 0;
+}
+
+# Foto Hasil
+
+ 
+
+
+
 
