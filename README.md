@@ -36,7 +36,7 @@ int main()
 }
 
 # Foto Hasil
-
+![img](https://raw.githubusercontent.com/arifhanifanudin/praktikum01/master/hasil01.PNG)
 
 # Latihan02
 
@@ -98,6 +98,9 @@ int main()
 }
 
 # Foto Hasil
+![img](https://raw.githubusercontent.com/arifhanifanudin/praktikum01/master/latihan02/hasil2.1.PNG)
+
+![img](https://raw.githubusercontent.com/arifhanifanudin/praktikum01/master/latihan02/hasil2.2.PNG)
 
  
 
